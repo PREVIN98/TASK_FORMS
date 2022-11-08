@@ -1,0 +1,67 @@
+body
+{
+             background-image    :url(./img/P1/ii.jpg);
+             background-size     : cover;
+}
+#head img
+{
+           width                 : 150px;
+           height                : 150px;
+}
+ #head a 
+ {
+           text-decoration       : none;
+           font-weight           : bold;
+           font-family           : sans-serif;
+           border-radius         : 10px;
+           color                 : white;
+           padding               : 10px;
+}
+#head nav a{
+           border                : 1px  soild black;
+           border-bottom: 10px;
+           
+         
+}
+ #head nav
+ {
+           text-decoration-line  : none;
+           margin-top            : 20px;
+           float                 : right;
+           padding-right         : 20px;
+           background-color      :brown;
+           width                 : fit-content;
+           padding               : 20px;
+           border-radius         : 10px 10px 10px 10px;
+ }
+ #con
+ {
+           padding-top           : 80px;
+           font-weight           : bold;
+           font-family           : sans-serif;
+           padding-left          : 400px;
+           padding-right         : 0px;
+           font-size             : xx-large;
+
+ }
+ #con2
+ {
+           font-family           : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+           padding-left          : 450px;
+           margin-bottom         : 10px;
+ }
+#con h2
+{
+           background-color      : maroon;
+           color                 : white;
+           width                 : fit-content;
+           padding               : 10px;
+           border-radius: 20px 20px 20px 20px;
+}
+#con3 
+{
+            padding-left: 550px;
+}
+
+
+
